@@ -13,12 +13,13 @@ Markdown uses simple symbols to create formatting:
 - **Bold** uses double asterisks
 - _Italic_ uses underscores
 
-## My Tasks
+## My Tasks for Today
 
-- [ ] Learn headings
-- [ ] Make a task list  
-- [ ] Add code examples
-- [ ] Add images
+- [ ] Learn headings (#, ##, ###)
+- [ ] Make a task list with checkboxes
+- [ ] Add a code example block
+- [ ] Add an image with alt text
+- [ ] Merge the pull request
 
 ## Code Example
 
@@ -27,6 +28,10 @@ Markdown uses simple symbols to create formatting:
 print('Hello, Markdown!')
 print('Learning is fun!')
 ```
+
+## An Image
+
+![GitHub logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 ## Summary
 
